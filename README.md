@@ -12,7 +12,7 @@
    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json" . 
 
 ### For JS DOCS
-[Leyla's Guide to JSDocs]('https://docs.google.com/document/d/1ifvEDvWpdaCO3AtY6P2KBdDvHaG2GkWpfTFIHBx8BoE/edit?usp=sharing')
+[Leyla's Guide to JSDocs](https://docs.google.com/document/d/1ifvEDvWpdaCO3AtY6P2KBdDvHaG2GkWpfTFIHBx8BoE/edit?usp=sharing)
 * for your server file: app.use('/docs', express.static('./docs'));
 
 ### Links and Resources
