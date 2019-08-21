@@ -4,6 +4,10 @@
 
 ### Author: Student/Group Name
 
+### Mongo DB URL
+
+mongodb://localhost:27017/
+
 ### Common npm Scripts
  "lint": "eslint **/*.js",  
    "start": "node index.js",  
