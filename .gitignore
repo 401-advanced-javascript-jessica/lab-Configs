@@ -80,6 +80,9 @@ typings/
 # dotenv environment variables file
 .env
 
+#intellij
+.idea
+
 
 ### OSX ###
 *.DS_Store
