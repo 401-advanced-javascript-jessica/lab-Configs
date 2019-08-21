@@ -9,7 +9,8 @@
    "start": "node index.js",  
    "test": "jest --verbose --coverage",  
    "test-watch": "jest --watchAll --verbose --coverage",  
-   "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json" . 
+   "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json",  
+   "startDB": "mkdir -p ./.db && mongod --dbpath ./.db"
 
 ### For JS DOCS
 [Leyla's Guide to JSDocs](https://docs.google.com/document/d/1ifvEDvWpdaCO3AtY6P2KBdDvHaG2GkWpfTFIHBx8BoE/edit?usp=sharing)
