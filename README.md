@@ -5,11 +5,11 @@
 ### Author: Student/Group Name
 
 ### Common npm Scripts
- "lint": "eslint **/*.js",
-   "start": "node index.js",
-   "test": "jest --verbose --coverage",
-   "test-watch": "jest --watchAll --verbose --coverage",
-   "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+ "lint": "eslint **/*.js",  
+   "start": "node index.js",  
+   "test": "jest --verbose --coverage",  
+   "test-watch": "jest --watchAll --verbose --coverage",  
+   "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json" . 
 
 ### For JS DOCS
 * for your server file: app.use('/docs', express.static('./docs'));
