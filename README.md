@@ -9,7 +9,7 @@
 mongodb://localhost:27017/
 
 ### Common npm Scripts
- "lint": "eslint **/*.js",  
+ "lint": "eslint \"**/*.js\"",  
    "start": "node index.js",  
    "test": "jest --verbose --coverage",  
    "test-watch": "jest --watchAll --verbose --coverage",  
